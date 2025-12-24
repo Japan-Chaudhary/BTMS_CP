@@ -19,7 +19,7 @@
         
         <div class="spacer"></div>
         
-        <a href="login.php" class="menu-item">LogOut</a>
+        <a href="/BTMS_CP_1/Login_and_Registration/login.php" class="menu-item">LogOut</a>
     </div>
 
     <div class="main-content">

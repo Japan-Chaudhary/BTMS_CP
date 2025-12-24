@@ -111,7 +111,7 @@ unset($_SESSION['form_data']);
                 <div class="error-message" id="errorMessage">Please check your information</div>
                 <div class="success-message" id="successMessage">Registration successful!</div>
 
-                <p class="login-link">Already have an account? <a href="/BTMS_CP_1/login.php">Log in</a></p>
+                <p class="login-link">Already have an account? <a href="/BTMS_CP_1/Login_and_Registration/login.php">Log in</a></p>
             </form>
         </div>
     </div>
