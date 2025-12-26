@@ -43,7 +43,7 @@
         </div>
 
         <div class="signup-link">
-            Don't have an account? <a href="/BTMS_CP_1/Login_and_Registration/Registration.php">Register</a>
+            Don't have an account? <a href="/BTMS_CP/Login_and_Registration/Registration.php">Register</a>
         </div>
     </div>
 
@@ -83,7 +83,7 @@
             }
 
             setTimeout(() => {
-                window.location.href = '/BTMS_CP_1/DashBoard_Page/dashboard.php'; 
+                window.location.href = '/BTMS_CP/DashBoard_Page/dashboard.php'; 
             }, 1000);
 
             // Simulated login 
